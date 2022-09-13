@@ -10,3 +10,4 @@
 '9-John_Doe' is a script that sets the permissions of the file 'hello' to read, write, and execute for the owner, read and execute for the group owner, and write and execute for other users
 '10-mirror_permissions' is a script that sets the mode of the file 'hello' to that of the file 'olleh'
 '11-directories_permissions' is a script that adds execution persmissions to all the subdirectories of the current directory, for the owner, the group owner, and all other users
+'12-directory_permissions' is a script that creates a directory named 'my_dir', with permissions 751, in the current working directory
