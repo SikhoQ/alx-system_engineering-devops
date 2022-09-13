@@ -6,3 +6,4 @@
 '5-execute' is a script that adds execution permission to the owner of the file 'hello'
 '6-multiple_permissions' is a script that adds execution permission to the owner and group owner, and read permission to other users, of the file 'hello'
 '7-everybody' is a script that adds execution permission to the owner, the group owner, and the other users, to the file 'hello'
+'8-James_Bond' is a script that removes all permissions from the owner and group owner, and grants all permissions to other users, to the file 'hello'
