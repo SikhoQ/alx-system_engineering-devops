@@ -8,3 +8,4 @@
 '7-everybody' is a script that adds execution permission to the owner, the group owner, and the other users, to the file 'hello'
 '8-James_Bond' is a script that removes all permissions from the owner and group owner, and grants all permissions to other users, to the file 'hello'
 '9-John_Doe' is a script that sets the permissions of the file 'hello' to read, write, and execute for the owner, read and execute for the group owner, and write and execute for other users
+'10-mirror_permissions' is a script that sets the mode of the file 'hello' to that of the file 'olleh'
