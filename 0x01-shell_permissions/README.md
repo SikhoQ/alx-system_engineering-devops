@@ -3,3 +3,4 @@
 '2-groups' is a bash script that prints all the groups the current user is part of
 '3-new_owner' is a bash script that changes ownership of a file named 'hello' to the user 'betty'
 '4-empty' is a bash script that creates an empty file named 'hello'
+'5-execute' is a bash script that adds execute permission to the owner of the file 'hello'
